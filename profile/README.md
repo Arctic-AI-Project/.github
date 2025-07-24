@@ -23,6 +23,3 @@ Our papers:
 * [SuffixDecoding: Extreme Speculative Decoding for Emerging AI Applications](https://arxiv.org/abs/2411.04975)
 * [Arctic Inference with Shift Parallelism: Fast and Efficient Open Source Inference System for Enterprise AI](https://arxiv.org/abs/2507.11830)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arctic-AI-Project)
