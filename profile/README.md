@@ -1,5 +1,7 @@
 # Arctic AI Project Central
 
+We are the Snowflake AI Research team.
+
 Our projects:
 - [ArcticTraining](https://github.com/snowflakedb/ArcticTraining)
 - [ArcticInference](https://github.com/snowflakedb/ArcticInference)
